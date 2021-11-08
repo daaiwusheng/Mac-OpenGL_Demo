@@ -1,0 +1,3 @@
+/Users/wangyu/CLionProjects/Mac-OpenGL_Demo/cmake-build-openglrun/CMakeFiles/rebuild_cache.dir
+/Users/wangyu/CLionProjects/Mac-OpenGL_Demo/cmake-build-openglrun/CMakeFiles/edit_cache.dir
+/Users/wangyu/CLionProjects/Mac-OpenGL_Demo/cmake-build-openglrun/CMakeFiles/gl.dir
